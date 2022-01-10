@@ -12,7 +12,8 @@ namespace Unversity.Repasitories
         string ICoursesRepasitory.Courses()
         {
             Console.Clear();
-            ret:
+        ret:
+            Console.WriteLine("hammaga salom");
             Console.WriteLine("\t\tCourses");
             Console.WriteLine("\n      IT                    Buisness" +
                               "\n  1)Front-end            4)ACCA" +
