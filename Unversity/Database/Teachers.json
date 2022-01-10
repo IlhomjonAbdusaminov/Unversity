@@ -1,0 +1,15 @@
+[
+  
+  {
+    "ID": "94c799d5-c03c-4d55-ad8a-ffe5ae2b26e2",
+    "Name": "Aziz",
+    "LName": "Aliyev",
+    "Age": "20",
+    "Email": "ali@mail",
+    "Phone": "123456789",
+    "Login": "ali",
+    "Password": "12345",
+    "Subject": "dotnet",
+    "Salary": 99.0
+  }
+]

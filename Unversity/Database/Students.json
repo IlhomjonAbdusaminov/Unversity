@@ -1,0 +1,16 @@
+[
+  
+  {
+    "Course": 1,
+    "ID": "00000000-0000-0000-0000-000000000000",
+    "Name": "asd",
+    "LName": "asd",
+    "Age": "12",
+    "Email": "sf",
+    "Phone": "af",
+    "Login": "adf",
+    "Password": "asd",
+    "Subject": "Database",
+    "Salary": 99.0
+  }
+]
